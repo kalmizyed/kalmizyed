@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning React, React Native, and User Interface Design
+- 😄 Pronouns: he/him
+
 <!--
 **kalmizyed/kalmizyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
